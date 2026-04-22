@@ -4,29 +4,8 @@ Hi, I’m Shivam Rajput
 🎓 B.Tech CSE (Core) student at KR Mangalam University
 
 💻 I’m passionate about Web Development and building real-world projects using technologies like Flask, HTML, CSS, and JavaScript.
-🚀 I enjoy creating practical applications that solve everyday problems and improve user experience.
+   I enjoy creating practical applications that solve everyday problems and improve user experience.
 
-📌 Projects I’ve worked on:
-
-🖥️ Desktop Assistant (1st Year Project)
-🔍 Lost and Found Items System (2nd Year Project)
-🌐 Multiple Web Development Experiments using Flask
-
-📜 Certifications:
-
-Microsoft Azure Fundamentals (AZ-900)
-
-🎯 Currently Learning:
-
-Advanced Flask Development
-Database Management (SQL)
-Full Stack Web Development
-
-💡 Goals:
-
-To become a skilled Full Stack Developer
-To contribute to open-source projects
-To build impactful and scalable applications
 
 
 
