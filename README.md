@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi 👋, I'm Shivam<br>i am first year developer passionate for coding and eager to learn<br>
 
 
