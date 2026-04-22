@@ -1,6 +1,7 @@
 👋 About Me
 
 Hi, I’m Shivam Rajput
+
 🎓 B.Tech CSE (Core) student at KR Mangalam University
 
 💻 I’m passionate about Web Development and building real-world projects using technologies like Flask, HTML, CSS, and JavaScript.
